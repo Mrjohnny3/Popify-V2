@@ -1,4 +1,4 @@
-# CodeX Music Bot
+# Popify V2 Music Bot
 
 **A feature-rich Discord music bot with advanced filters, playlist management, and multiple platform support.**
 
